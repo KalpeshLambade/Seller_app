@@ -38,3 +38,10 @@ Here's an example structure of the JSON data:
   ],
   // More cities...
 }
+```
+
+
+## Tailwind CSS
+
+This project utilizes the Tailwind CSS framework for styling. Tailwind CSS is a utility-first CSS framework that allows you to apply styles directly to HTML elements using class names.
+In the project's components, you'll find the use of Tailwind CSS classes for styling elements, making it easy to create responsive and visually appealing user interfaces.
