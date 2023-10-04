@@ -1,6 +1,7 @@
 {
-  "newYork": [
+  "london": [
     {
+      "id": 1,
       "name": "Central Park West Hostel",
       "image": "https://pix8.agoda.net/hotelImages/6950435/-1/351d292b28b57d313290d3f5c7488edb.jpg?ca=8&ce=1&s=1024x768",
       "price": 7255,
@@ -13,8 +14,8 @@
         "area": 732
       }
     },
-
     {
+      "id": 2,
       "name": "The Baltic Hotel",
       "image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/299170740.jpg?k=f5d6410bc7ea0b2f29bda82f47e194c6e2cde3719f653acc6f0f8530cbe6671f&o=",
       "price": 19133,
@@ -22,13 +23,492 @@
       "available": "Rent",
       "description": {
         "room": 1,
-        "bed": 1,
+        "bed": 2,
         "bath": 1,
         "area": 930
       }
+    },
+    {
+      "id": 3,
+      "name": "Park Grand London Heathrow",
+      "image": "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/8436720888274410-f2707e3c_z.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg",
+      "price": 7724,
+      "address": "Hounslow, London",
+      "available": "Rent",
+      "description": {
+        "room": 1,
+        "bed": 1,
+        "bath": 1,
+        "area": 237
+      }
+    },
+    {
+      "id": 4,
+      "name": "Hotel Riu Plaza London Victoria",
+      "image": "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202301061258393948-205eb24f_z.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg",
+      "price": 19175,
+      "address": "Westminster, London | 1.8 km from Buckingham Palace",
+      "available": "Sale",
+      "description": {
+        "room": 3,
+        "bed": 3,
+        "bath": 3,
+        "area": 875
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ramada by Wyndham London North M1",
+      "image": "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/4190725563796622-e814d849_z.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg",
+      "price": 4490,
+      "address": "Edgware, London",
+      "available": "Sale",
+      "description": {
+        "room": 1,
+        "bed": 1,
+        "bath": 1,
+        "area": 172
+      }
+    },
+    {
+      "id": 6,
+      "name": "Park Grand Paddington Court",
+      "image": "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/4190725563797312-d4ef3b59_z.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg",
+      "price": 14550,
+      "address": "Paddington & Bayswater, London | 3.5 km from Hyde Park",
+      "available": "Rent",
+      "description": {
+        "room": 1,
+        "bed": 2,
+        "bath": 1,
+        "area": 161
+      }
+    },
+    {
+      "id": 7,
+      "name": "ibis London City - Shoreditch",
+      "image": "https://r1imghtlak.mmtcdn.com/6c904058e00411eda6170a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,35&output-format=jpg",
+      "price": 20575,
+      "address": "Tower Hamlets, London | 1.5 km from Tower Bridge",
+      "available": "Rent",
+      "description": {
+        "room": 2,
+        "bed": 2,
+        "bath": 2,
+        "area": 561
+      }
+    },
+    {
+      "id": 8,
+      "name": "DoubleTree by Hilton London-Islington",
+      "image": "https://r1imghtlak.mmtcdn.com/fb13db9257cb11eaa22d0242ac110009.webp?&output-quality=75&downsize=910:612&crop=910:612;0,29&output-format=jpg",
+      "price": 17547,
+      "address": "Central London, London | 4.3 km from Trafalgar Square",
+      "available": "",
+      "description": {
+        "room": 1,
+        "bed": 2,
+        "bath": 1,
+        "area": 226
+      }
+    },
+    {
+      "id": 9,
+      "name": "Park Plaza Westminster Bridge London",
+      "image": "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/4190725563797376-c99b8cf8_z.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg",
+      "price": 20025,
+      "address": "Central London, London | 530 m from London Eye",
+      "available": "Rent",
+      "description": {
+        "room": 1,
+        "bed": 2,
+        "bath": 2,
+        "area": 334
+      }
     }
   ],
-  "mumbai": [],
-  "paris": [],
-  "london": []
+  "mumbai": [
+    {
+      "id": 10,
+      "name": "Paradise Sai Sun City",
+      "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2022/05/30/Project-Photo-16-Sai-Suncity-Navi-Mumbai-5331563_600_800_310_462.jpg",
+      "price": 78082.22,
+      "address": "Taloja, Navi Mumbai - Central Navi Mumbai, Maharashtra",
+      "available": "Sale",
+      "description": {
+        "room": 1,
+        "bed": 2,
+        "bath": 2,
+        "area": 716
+      }
+    },
+    {
+      "id": 11,
+      "name": "The Highlands Godrej City",
+      "image": "https://img.staticmb.com/mbimages/project/Photo_h300_w450/2021/09/07/Project-Photo-6-The-Highlands-Navi-Mumbai-5192703_600_1200_300_450.jpg",
+      "price": 84088.55,
+      "address": "Village Thombrewadi, Post, Taluka, Panvel, Poyanje",
+      "available": "Sale",
+      "description": {
+        "room": 1,
+        "bed": 2,
+        "bath": 2,
+        "area": 660
+      }
+    },
+    {
+      "id": 12,
+      "name": "Sunteck Signature Island",
+      "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Jul/12/Photo_h300_w450/62070981_4_MG_7942_300_450.jpg",
+      "price": 900.9,
+      "address": "Bandra Kurla Complex, Mumba",
+      "available": "Rent",
+      "description": {
+        "room": 7,
+        "bed": 14,
+        "bath": 7,
+        "area": 9000
+      }
+    },
+    {
+      "id": 13,
+      "name": "K Raheja Artesia",
+      "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Dec/22/Photo_h300_w450/64766981_4_15426440O1630325021305_300_450.jpg",
+      "price": 300.32,
+      "address": "Worli, Mumbai",
+      "available": "Rent",
+      "description": {
+        "room": 4,
+        "bed": 4,
+        "bath": 4,
+        "area": 3900
+      }
+    },
+    {
+      "id": 14,
+      "name": "EV 10 Marina Bay",
+      "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Apr/24/Photo_h300_w450/66680661_1_allery8_300_450.jpg",
+      "price": 240267,
+      "address": "Vashi, Navi Mumbai",
+      "available": "Sale",
+      "description": {
+        "room": 2,
+        "bed": 2,
+        "bath": 2,
+        "area": 607
+      }
+    },
+    {
+      "id": 15,
+      "name": "Zolo Shankar",
+      "image": "https://img.staticmb.com/mbphoto/pg/grd2/cropped_images/2023/Jul/14/Photo_h400_w540/GR2-344031-1816519_400_540.jpg",
+      "price": 800,
+      "address": "Andheri East, Mumbai",
+      "available": "Rent",
+      "description": {
+        "room": 1,
+        "bed": 1,
+        "bath": 1,
+        "area": 375
+      }
+    },
+    {
+      "id": 16,
+      "name": "",
+      "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Oct/20/Photo_h300_w450/63771417_8_PropertyImage570-4496265465696_300_450.jpg",
+      "price": 14414.96,
+      "address": "Juhu Tara Road, Mumbai",
+      "available": "Sale",
+      "description": {
+        "room": 5,
+        "bed": 5,
+        "bath": 5,
+        "area": 50000
+      }
+    },
+    {
+      "id": 17,
+      "name": "Beaumonde Towers",
+      "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Sep/02/Photo_h300_w450/68889581_2_eauMondeTowers1_300_450.jpg",
+      "price": 16817,
+      "address": "Prabhadevi, Mumbai",
+      "available": "Rent",
+      "description": {
+        "room": 5,
+        "bed": 6,
+        "bath": 6,
+        "area": 5000
+      }
+    },
+    {
+      "id": 18,
+      "name": "K Raheja Artesia",
+      "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Apr/29/Photo_h300_w450/66822825_2_56757836HOTO2022062113100920320_300_450.jpg",
+      "price": 13214,
+      "address": "Worli, Mumbai",
+      "available": "Rent",
+      "description": {
+        "room": 4,
+        "bed": 3,
+        "bath": 3,
+        "area": 3064
+      }
+    }
+  ],
+  "paris": [
+    {
+      "id": 19,
+      "name": "La Manufacture",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/4190725563802323-3f7f5606_z.jpg",
+      "price": 800,
+      "address": "8 Rue Philippe De Champagne",
+      "available": "Rent",
+      "description": {
+        "room": 1,
+        "bed": 2,
+        "bath": 2,
+        "area": 228
+      }
+    },
+    {
+      "id": 20,
+      "name": "Hôtel de France Invalides",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/12518628743026714-83fbc19b_z.jpg",
+      "price": 1865,
+      "address": "102, Boulevard de la Tour Maubourg",
+      "available": "Rent",
+      "description": {
+        "room": 3,
+        "bed": 2,
+        "bath": 2,
+        "area": 338
+      }
+    },
+    {
+      "id": 21,
+      "name": "Belambra City Hôtel Magendie",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/4190725563800753-b340af89_z.jpg",
+      "price": 16232,
+      "address": "2/4 rue Magendie (angle 6 rue Corvisart)",
+      "available": "Sale",
+      "description": {
+        "room": 1,
+        "bed": 1,
+        "bath": 1,
+        "area": 118
+      }
+    },
+    {
+      "id": 22,
+      "name": "Sure Hotel by Best Western Paris Gare du Nord",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/4190725563801787-639f58b9_z.jpg",
+      "price": 20,
+      "address": "224 Rue Du Faubourg Saint Denis",
+      "available": "Sale",
+      "description": {
+        "room": 5,
+        "bed": 4,
+        "bath": 4,
+        "area": 1440
+      }
+    },
+    {
+      "id": 23,
+      "name": "Hotel Marignan Champs - Elysées",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/4190725563802563-17bc1fbc_z.jpg",
+      "price": 42932,
+      "address": "12 Rue De Marignan",
+      "available": "Rent",
+      "description": {
+        "room": 3,
+        "bed": 2,
+        "bath": 2,
+        "area": 532
+      }
+    },
+    {
+      "id": 24,
+      "name": "Novotel Paris Centre Tour Eiffel",
+      "image": "https://goreviews.goibibo.com/ugc1/t_ufs/paris-novotelpariscentretoureiffel-abhinav-1677782951887.jpg",
+      "price": 25701,
+      "address": "61 quai de Grenelle 75015 PARIS FRANCE",
+      "available": "Sale",
+      "description": {
+        "room": 1,
+        "bed": 1,
+        "bath": 1,
+        "area": 215
+      }
+    },
+    {
+      "id": 25,
+      "name": "Pullman Paris Montparnasse Hotel",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/4190725563802429-70ffa786_z.jpg",
+      "price": 25017,
+      "address": "19 Rue Commandant Rene Mouchotte",
+      "available": "Rent",
+      "description": {
+        "room": 1,
+        "bed": 2,
+        "bath": 1,
+        "area": 237
+      }
+    },
+    {
+      "id": 26,
+      "name": "Hôtel Gustave",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/4190725563801057-e3b00795_z.jpg",
+      "price": 23214,
+      "address": "34 Rue Viala",
+      "available": "Rent",
+      "description": {
+        "room": 2,
+        "bed": 1,
+        "bath": 1,
+        "area": 196
+      }
+    },
+    {
+      "id": 27,
+      "name": "Crowne Plaza Paris Republique",
+      "image": "https://goreviews.goibibo.com/ugc1/t_ufs/crowne-plaza-paris-republique-paris-hitesh-jain-1590482417277974.jpeg",
+      "price": 900,
+      "address": "10 Place De La Republique",
+      "available": "Sale",
+      "description": {
+        "room": 2,
+        "bed": 1,
+        "bath": 1,
+        "area": 352
+      }
+    }
+  ],
+  "newYork": [
+    {
+      "id": 28,
+      "name": "The Gallivant Times Square",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/4219023832547935-e0d1e5fe_z.jpg",
+      "price": 2705,
+      "address": "234 48Th Street",
+      "available": "Rent",
+      "description": {
+        "room": 3,
+        "bed": 2,
+        "bath": 2,
+        "area": 470
+      }
+    },
+    {
+      "id": 29,
+      "name": "New York Marriott Marquis",
+      "image": "https://cdn1.goibibo.com/voy_ing/t_g/a8133834b6c811edb6470a58a9feac02.jpg",
+      "price": 4761,
+      "address": "1535 Broadway, Pincode- 10036, New York, United States",
+      "available": "Sale",
+      "description": {
+        "room": 2,
+        "bed": 2,
+        "bath": 2,
+        "area": 410
+      }
+    },
+    {
+      "id": 30,
+      "name": "The Manhattan at Times Square Hotel",
+      "image": "https://cdn1.goibibo.com/voy_ing/t_g/voy/a8802e00ce513e58e92e9be439f5e75f.jpg",
+      "price": 900,
+      "address": "790 7th Ave",
+      "available": "Rent",
+      "description": {
+        "room": 1,
+        "bed": 1,
+        "bath": 1,
+        "area": 250
+      }
+    },
+    {
+      "id": 31,
+      "name": "Pod Times Square",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/201801081752071424-6c676712_z.jpg",
+      "price": 2000,
+      "address": "400 W 42nd Street",
+      "available": "Rent",
+      "description": {
+        "room": 2,
+        "bed": 1,
+        "bath": 1,
+        "area": 460
+      }
+    },
+    {
+      "id": 32,
+      "name": "YOTEL New York Times Square",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/4219023832548641-04268b08_z.jpg",
+      "price": 800,
+      "address": "570 Tenth Avenue",
+      "available": "Rent",
+      "description": {
+        "room": 1,
+        "bed": 1,
+        "bath": 1,
+        "area": 530
+      }
+    },
+    {
+      "id": 33,
+      "name": "Crowne Plaza Times Square",
+      "image": "https://cdn1.goibibo.com/voy_ing/t_g/7abdbb02dc1211ecbaa70a58a9feac02.jpg",
+      "price": 800,
+      "address": "1605 Broadway,at 49th Street",
+      "available": "Sale",
+      "description": {
+        "room": 2,
+        "bed": 2,
+        "bath": 2,
+        "area": 920
+      }
+    },
+    {
+      "id": 34,
+      "name": "The Lexington Hotel, Autograph Collection",
+      "image": "https://cdn1.goibibo.com/voy_mmt_ext/t_g/htl-imgs/4219023832548447-f8a5de64_z.jpg",
+      "price": 19130,
+      "address": "511 Lexington Ave At 48Th St., Pincode- 10017,",
+      "available": "Sale",
+      "description": {
+        "room": 3,
+        "bed": 2,
+        "bath": 2,
+        "area": 210
+      }
+    },
+    {
+      "id": 35,
+      "name": "Hotel Edison Times Square",
+      "image": "https://goreviews.goibibo.com/ugc1/t_ufs/hotel-edison-newyork-sakshi-jhawar-1590490782456433.jpg",
+      "price": 30551,
+      "address": "228 W 47th St",
+      "available": "",
+      "description": {
+        "room": 2,
+        "bed": 2,
+        "bath": 3,
+        "area": 730
+      }
+    },
+    {
+      "id": 36,
+      "name": "The New Yorker A Wyndham Hotel",
+      "image": "https://cdn1.goibibo.com/voy_ing/t_g/voy/45090_16080522330045264091.jpg",
+      "price": 32875,
+      "address": "481 Eighth Ave.",
+      "available": "Rent",
+      "description": {
+        "room": 3,
+        "bed": 2,
+        "bath": 2,
+        "area": 390
+      }
+    }
+  ]
 }
