@@ -71,7 +71,7 @@ const Homepage = () => {
           </div>
         </section>
         {/* hotels */}
-        <section className=" border-red-600 flex flex-wrap items-center justify-evenly px-11 py-3">
+        <section className=" border-red-600 flex flex-wrap items-center justify-evenly px-11 py-3 cursor-pointer">
           {city ? (
             more ? (
               <Card city={city} />
