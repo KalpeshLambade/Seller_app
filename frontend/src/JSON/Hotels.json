@@ -1,0 +1,34 @@
+{
+  "newYork": [
+    {
+      "name": "Central Park West Hostel",
+      "image": "https://pix8.agoda.net/hotelImages/6950435/-1/351d292b28b57d313290d3f5c7488edb.jpg?ca=8&ce=1&s=1024x768",
+      "price": 7255,
+      "address": "201 West 87th Street, Upper West Side",
+      "available": "Rent",
+      "description": {
+        "room": 3,
+        "bed": 4,
+        "bath": 1,
+        "area": 732
+      }
+    },
+
+    {
+      "name": "The Baltic Hotel",
+      "image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/299170740.jpg?k=f5d6410bc7ea0b2f29bda82f47e194c6e2cde3719f653acc6f0f8530cbe6671f&o=",
+      "price": 19133,
+      "address": "489 Baltic Street, Brooklyn",
+      "available": "Rent",
+      "description": {
+        "room": 1,
+        "bed": 1,
+        "bath": 1,
+        "area": 930
+      }
+    }
+  ],
+  "mumbai": [],
+  "paris": [],
+  "london": []
+}
